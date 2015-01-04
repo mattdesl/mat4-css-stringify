@@ -1,6 +1,6 @@
 {
   "name": "mat4-css-stringify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stringifies a mat4 into a css matrix3d()",
   "main": "index.js",
   "license": "MIT",
