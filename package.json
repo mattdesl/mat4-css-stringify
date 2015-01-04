@@ -1,0 +1,35 @@
+{
+  "name": "mat4-css-stringify",
+  "version": "1.0.0",
+  "description": "stringifies a mat4 into a css matrix3d()",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.3"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "css",
+    "stringify",
+    "matrix",
+    "matrix3d",
+    "concat",
+    "join"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/mat4-css-stringify.git"
+  },
+  "homepage": "https://github.com/mattdesl/mat4-css-stringify",
+  "bugs": {
+    "url": "https://github.com/mattdesl/mat4-css-stringify/issues"
+  }
+}
