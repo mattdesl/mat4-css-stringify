@@ -2,7 +2,7 @@
 
 [![frozen](http://badges.github.io/stability-badges/dist/frozen.svg)](http://github.com/badges/stability-badges)
 
-Stringifies a 4x4 matrix (stored in a 16 float flat array) into a `matrix3d()` string. Useful in conjunction with [mat4-css-parse](https://nodei.co/npm/mat4-css-stringify/).
+Stringifies a 4x4 matrix (stored in a 16 float flat array) into a `matrix3d()` string. Useful in conjunction with [mat4-css-parse](https://nodei.co/npm/mat4-css-parse/).
 
 ```js
 var stringify = require('mat4-css-stringify')
